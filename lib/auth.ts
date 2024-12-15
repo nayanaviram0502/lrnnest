@@ -1,0 +1,1 @@
+// This file will be reimplemented with proper auth configuration
